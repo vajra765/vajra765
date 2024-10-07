@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @vajra
 - 👀 I’m interested in web security
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning data structure
+- 📫 How to reach me vajradindakurthi@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 vajra765/vajra765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
