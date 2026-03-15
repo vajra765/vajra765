@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vajra
-- 👀 I’m interested in web security
-- 🌱 I’m currently learning data structure
-- 📫 How to reach me vajradindakurthi@gmail.com
+- 👀 I’m interested in Data Analytics & Machine Learning
+- 📫 How to reach me: vajradindakurthi@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
