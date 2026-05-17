@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vajra
-- 👀 I’m interested in Data Analytics & Machine Learning
+- 👀 I’m interested in GenAi, Data Analytics & Machine Learning
 - 📫 How to reach me: vajradindakurthi@gmail.com
 - 😄 Pronouns: he/him
 
