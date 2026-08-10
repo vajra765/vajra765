@@ -63,10 +63,10 @@
 
 ### 🚀 Featured Projects
 
-**[Mitigating Semantic Drift in Generative RAG Architectures](#)**
+**[Mitigating Semantic Drift in Generative RAG Architectures](https://github.com/vajra765/GenAI_Mini_Project)**
 Built a RAG pipeline using FLAN-T5, FAISS, and semantic search to improve generative AI robustness against noisy queries. Developed a deterministic lexical denoiser with NER shielding to reduce semantic drift and improve retrieval accuracy on code-mixed inputs.
 
-**[Dynamic Content Streaming Platform using Apache Kafka](#)**
+**[Dynamic Content Streaming Platform](https://github.com/vajra765/141_Project2_BD)**
 Real-time news streaming platform built with Apache Kafka and Python, featuring dynamic topic lifecycle management, multi-threaded producers, and consumer-driven subscription updates — integrated with a database-backed control plane and web interface for live monitoring and controlled topic approval workflows.
 
 ---
